@@ -2,7 +2,7 @@
 
 ## Description du projet
 
-Ce projet permet de récupérer automatiquement les informations de profils LinkedIn à partir d'un formulaire Google. L'intégration utilise la plateforme Make et l'API **Fresh LinkedIn Profile Data** pour extraire les données d'un profil LinkedIn. Les informations obtenues sont ensuite traitées et transmises à une équipe désignée (Ressources Humaines ou Commerciale).
+Ce projet permet de récupérer automatiquement les informations de profils LinkedIn à partir d'un formulaire Google Form. L'intégration utilise la plateforme Make et l'API **Fresh LinkedIn Profile Data** ( du site rapid API ) pour extraire les données d'un profil LinkedIn. Les informations obtenues sont ensuite traitées et transmises à une équipe désignée (Ressources Humaines ou Commerciale).
 
 ## Fonctionnalités
 
