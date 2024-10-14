@@ -25,6 +25,8 @@ Ce projet permet de récupérer automatiquement les informations de profils Link
 2. **Configuration dans Make** :
    - Sélectionnez l'application Google Forms pour déclencher le workflow.
    - Ajoutez une action pour appeler l'API **Fresh LinkedIn Profile Data**.
+![image](https://github.com/user-attachments/assets/ed62a57c-ac67-4d57-96db-0e9daa2cbbcf)
+
    - Paramétrez la requête API avec l'URL LinkedIn soumise dans le formulaire.
    - Formatez la réponse reçue et envoyez-la à ChatGPT pour obtenir un scoring du profil.
 3. **Envoi des résultats** :
