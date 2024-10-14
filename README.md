@@ -22,6 +22,8 @@ Ce projet permet de récupérer automatiquement les informations de profils Link
 ## Étapes d'installation
 
 1. **Google Form** : Créez un formulaire Google avec un champ pour recueillir les URL des profils LinkedIn.
+![image](https://github.com/user-attachments/assets/00d39fa8-bfb8-427d-8e46-78f2713a0b09)
+
 2. **Configuration dans Make** :
    - Sélectionnez l'application Google Forms pour déclencher le workflow.
    - Ajoutez une action pour appeler l'API **Fresh LinkedIn Profile Data**.
